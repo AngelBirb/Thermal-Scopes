@@ -18,7 +18,7 @@
         "Optics",
         "Buttstocks",
         "Handguards",
-	      "Thermal_Scope"
+	"Thermal_Scope"
     ],
     "Items": {
         "universallight": 1,
